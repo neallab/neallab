@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/ios-android-nativescript
+
+
+![ㅗ](https://img.shields.io/badge/ios-android-nativescript)
+
 
 <!--
 **neallab/neallab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
