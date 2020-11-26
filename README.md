@@ -2,7 +2,7 @@
 
 
 
-![ㅗ](https://img.shields.io/badge/ios-android-nativescript)
+![ㅗ](https://img.shields.io/badge/📱-ios-red)
 
 
 <!--
